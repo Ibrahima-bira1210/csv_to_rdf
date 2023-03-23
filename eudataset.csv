@@ -1,0 +1,373 @@
+country,energy_type,produced_value,consumed_value,year,sector,C02_value,GHG_value
+France,Solid fossil fuels,7.81,5.04,1990,Energy Industries,65.82,66.34
+France,Solid fossil fuels,7.41,5.04,1991,Energy Industries,67.27,67.81
+France,Solid fossil fuels,6.82,4.68,1992,Energy Industries,68.35,68.90
+France,Solid fossil fuels,6.28,3.80,1993,Energy Industries,56.11,56.64
+France,Solid fossil fuels,5.49,3.32,1994,Energy Industries,52.58,53.06
+France,Solid fossil fuels,5.08,3.03,1995,Energy Industries,55.33,55.80
+France,Solid fossil fuels,4.99,3.32,1996,Energy Industries,60.00,60.53
+France,Solid fossil fuels,4.11,2.96,1997,Energy Industries,56.43,56.96
+France,Solid fossil fuels,3.32,2.68,1998,Energy Industries,68.95,69.53
+France,Solid fossil fuels,3.04,2.36,1999,Energy Industries,62.42,62.97
+France,Solid fossil fuels,2.09,2.31,2000,Energy Industries,61.96,62.53
+France,Solid fossil fuels,1.36,2.13,2001,Energy Industries,55.42,55.98
+France,Solid fossil fuels,0.98,1.70,2002,Energy Industries,58.69,59.26
+France,Solid fossil fuels,1.08,1.76,2003,Energy Industries,62.09,62.71
+France,Solid fossil fuels,0.10,1.78,2004,Energy Industries,60.97,61.61
+France,Solid fossil fuels,0.00,2.00,2005,Energy Industries,66.35,66.97
+France,Solid fossil fuels,0.00,1.93,2006,Energy Industries,62.31,62.81
+France,Solid fossil fuels,0.00,2.13,2007,Energy Industries,61.98,62.40
+France,Solid fossil fuels,0.00,2.03,2008,Energy Industries,60.82,61.25
+France,Solid fossil fuels,0.00,1.63,2009,Energy Industries,59.03,59.44
+France,Solid fossil fuels,0.00,1.75,2010,Energy Industries,59.65,60.13
+France,Solid fossil fuels,0.00,1.22,2011,Energy Industries,54.40,54.76
+France,Solid fossil fuels,0.00,1.33,2012,Energy Industries,56.62,57.02
+France,Solid fossil fuels,0.00,1.15,2013,Energy Industries,55.02,55.39
+France,Solid fossil fuels,0.00,1.05,2014,Energy Industries,41.80,42.09
+France,Solid fossil fuels,0.00,1.11,2015,Energy Industries,44.69,44.99
+France,Solid fossil fuels,0.00,1.08,2016,Energy Industries,48.20,48.55
+France,Solid fossil fuels,0.00,1.12,2017,Energy Industries,52.17,52.56
+France,Solid fossil fuels,0.00,1.16,2018,Energy Industries,42.89,43.19
+France,Solid fossil fuels,0.00,0.95,2019,Energy Industries,41.36,41.68
+France,Solid fossil fuels,0.00,0.84,2020,Energy Industries,36.82,37.12
+France,Natural gas,2.52,22.02,1990,Manufacturing Industries and Construction,64.59,65.16
+France,Natural gas,2.86,25.19,1991,Manufacturing Industries and Construction,77.70,78.34
+France,Natural gas,2.78,25.43,1992,Manufacturing Industries and Construction,68.01,68.58
+France,Natural gas,2.88,25.54,1993,Manufacturing Industries and Construction,65.54,66.10
+France,Natural gas,2.94,25.32,1994,Manufacturing Industries and Construction,66.70,67.19
+France,Natural gas,2.79,25.86,1995,Manufacturing Industries and Construction,68.88,69.43
+France,Natural gas,2.41,28.71,1996,Manufacturing Industries and Construction,71.02,71.56
+France,Natural gas,2.13,28.30,1997,Manufacturing Industries and Construction,69.04,69.55
+France,Natural gas,1.84,29.05,1998,Manufacturing Industries and Construction,68.06,68.74
+France,Natural gas,1.67,30.33,1999,Manufacturing Industries and Construction,68.65,69.27
+France,Natural gas,1.50,29.83,2000,Manufacturing Industries and Construction,67.11,67.67
+France,Natural gas,1.51,30.84,2001,Manufacturing Industries and Construction,72.05,72.70
+France,Natural gas,1.45,30.56,2002,Manufacturing Industries and Construction,68.00,68.78
+France,Natural gas,1.28,32.16,2003,Manufacturing Industries and Construction,68.03,68.79
+France,Natural gas,1.11,32.76,2004,Manufacturing Industries and Construction,63.91,64.63
+France,Natural gas,0.91,33.34,2005,Manufacturing Industries and Construction,65.39,66.13
+France,Natural gas,1.06,32.45,2006,Manufacturing Industries and Construction,63.96,64.64
+France,Natural gas,0.92,30.87,2007,Manufacturing Industries and Construction,63.10,63.74
+France,Natural gas,0.81,31.88,2008,Manufacturing Industries and Construction,61.29,61.89
+France,Natural gas,0.76,30.03,2009,Manufacturing Industries and Construction,52.49,53.01
+France,Natural gas,0.65,32.01,2010,Manufacturing Industries and Construction,55.78,56.31
+France,Natural gas,0.51,30.09,2011,Manufacturing Industries and Construction,52.47,53.09
+France,Natural gas,0.45,32.01,2012,Manufacturing Industries and Construction,51.14,51.76
+France,Natural gas,0.29,33.26,2013,Manufacturing Industries and Construction,50.59,51.23
+France,Natural gas,0.01,27.93,2014,Manufacturing Industries and Construction,48.04,48.65
+France,Natural gas,0.02,28.66,2015,Manufacturing Industries and Construction,47.16,47.79
+France,Natural gas,0.02,30.06,2016,Manufacturing Industries and Construction,47.04,47.68
+France,Natural gas,0.01,29.26,2017,Manufacturing Industries and Construction,44.80,45.42
+France,Natural gas,0.01,28.97,2018,Manufacturing Industries and Construction,45.89,46.52
+France,Natural gas,0.01,28.28,2019,Manufacturing Industries and Construction,43.80,44.42
+France,Natural gas,0.02,26.47,2020,Manufacturing Industries and Construction,41.59,42.19
+France,Renewables and biofuels,15.22,9.80,1990,Transport,120.34,122.29
+France,Renewables and biofuels,17.14,11.33,1991,Transport,123.52,125.50
+France,Renewables and biofuels,17.81,10.99,1992,Transport,126.35,128.35
+France,Renewables and biofuels,17.05,10.59,1993,Transport,127.01,129.09
+France,Renewables and biofuels,17.22,9.55,1994,Transport,128.63,130.88
+France,Renewables and biofuels,17.04,9.82,1995,Transport,129.86,132.33
+France,Renewables and biofuels,17.23,10.61,1996,Transport,130.01,132.74
+France,Renewables and biofuels,16.14,9.72,1997,Transport,132.25,135.23
+France,Renewables and biofuels,16.01,9.70,1998,Transport,135.64,138.73
+France,Renewables and biofuels,16.52,9.24,1999,Transport,138.97,141.06
+France,Renewables and biofuels,15.74,8.97,2000,Transport,139.06,141.05
+France,Renewables and biofuels,16.58,9.12,2001,Transport,142.12,144.12
+France,Renewables and biofuels,15.02,8.66,2002,Transport,143.76,145.75
+France,Renewables and biofuels,15.52,9.19,2003,Transport,141.97,143.90
+France,Renewables and biofuels,15.88,9.41,2004,Transport,142.53,144.44
+France,Renewables and biofuels,16.00,9.40,2005,Transport,140.20,142.04
+France,Renewables and biofuels,15.70,8.71,2006,Transport,139.75,141.53
+France,Renewables and biofuels,16.88,9.49,2007,Transport,138.59,140.32
+France,Renewables and biofuels,19.30,11.00,2008,Transport,132.92,134.57
+France,Renewables and biofuels,19.77,11.78,2009,Transport,131.41,132.87
+France,Renewables and biofuels,22.17,12.95,2010,Transport,132.27,133.75
+France,Renewables and biofuels,19.16,11.21,2011,Transport,133.19,134.70
+France,Renewables and biofuels,22.69,12.86,2012,Transport,131.49,133.02
+France,Renewables and biofuels,25.15,13.89,2013,Transport,130.76,132.31
+France,Renewables and biofuels,23.08,12.44,2014,Transport,130.69,132.26
+France,Renewables and biofuels,24.05,13.22,2015,Transport,132.15,133.74
+France,Renewables and biofuels,25.59,14.21,2016,Transport,132.33,133.94
+France,Renewables and biofuels,24.91,14.24,2017,Transport,132.67,134.28
+France,Renewables and biofuels,27.15,14.34,2018,Transport,130.09,131.65
+France,Renewables and biofuels,27.40,14.77,2019,Transport,130.18,131.73
+France,Renewables and biofuels,27.96,13.95,2020,Transport,108.18,109.47
+France,"Waste, non-renewable",0.57,0.00,1990,Agriculture/Forestry/Fisheries,11.22,12.16
+France,"Waste, non-renewable",0.63,0.00,1991,Agriculture/Forestry/Fisheries,11.35,12.30
+France,"Waste, non-renewable",0.63,0.00,1992,Agriculture/Forestry/Fisheries,11.50,12.46
+France,"Waste, non-renewable",0.63,0.00,1993,Agriculture/Forestry/Fisheries,11.78,12.75
+France,"Waste, non-renewable",0.63,0.00,1994,Agriculture/Forestry/Fisheries,11.52,12.49
+France,"Waste, non-renewable",0.72,0.08,1995,Agriculture/Forestry/Fisheries,11.54,12.52
+France,"Waste, non-renewable",0.74,0.08,1996,Agriculture/Forestry/Fisheries,11.80,12.78
+France,"Waste, non-renewable",0.76,0.09,1997,Agriculture/Forestry/Fisheries,11.75,12.73
+France,"Waste, non-renewable",0.78,0.09,1998,Agriculture/Forestry/Fisheries,12.00,12.99
+France,"Waste, non-renewable",0.87,0.10,1999,Agriculture/Forestry/Fisheries,12.10,13.10
+France,"Waste, non-renewable",0.93,0.15,2000,Agriculture/Forestry/Fisheries,12.15,13.15
+France,"Waste, non-renewable",0.97,0.18,2001,Agriculture/Forestry/Fisheries,12.29,13.30
+France,"Waste, non-renewable",1.02,0.21,2002,Agriculture/Forestry/Fisheries,11.87,12.88
+France,"Waste, non-renewable",1.07,0.24,2003,Agriculture/Forestry/Fisheries,11.72,12.74
+France,"Waste, non-renewable",1.15,0.25,2004,Agriculture/Forestry/Fisheries,12.21,13.28
+France,"Waste, non-renewable",1.06,0.06,2005,Agriculture/Forestry/Fisheries,11.90,12.93
+France,"Waste, non-renewable",1.02,0.06,2006,Agriculture/Forestry/Fisheries,11.50,12.51
+France,"Waste, non-renewable",1.11,0.10,2007,Agriculture/Forestry/Fisheries,11.27,12.28
+France,"Waste, non-renewable",1.16,0.12,2008,Agriculture/Forestry/Fisheries,11.50,12.54
+France,"Waste, non-renewable",1.24,0.16,2009,Agriculture/Forestry/Fisheries,11.59,12.65
+France,"Waste, non-renewable",1.25,0.14,2010,Agriculture/Forestry/Fisheries,11.20,12.21
+France,"Waste, non-renewable",1.56,0.43,2011,Agriculture/Forestry/Fisheries,11.09,12.11
+France,"Waste, non-renewable",1.61,0.41,2012,Agriculture/Forestry/Fisheries,10.53,11.52
+France,"Waste, non-renewable",1.65,0.44,2013,Agriculture/Forestry/Fisheries,11.02,12.08
+France,"Waste, non-renewable",1.69,0.43,2014,Agriculture/Forestry/Fisheries,10.97,12.05
+France,"Waste, non-renewable",1.67,0.40,2015,Agriculture/Forestry/Fisheries,10.84,11.92
+France,"Waste, non-renewable",1.74,0.46,2016,Agriculture/Forestry/Fisheries,10.15,11.15
+France,"Waste, non-renewable",1.70,0.42,2017,Agriculture/Forestry/Fisheries,9.91,10.88
+France,"Waste, non-renewable",1.71,0.43,2018,Agriculture/Forestry/Fisheries,9.95,10.92
+France,"Waste, non-renewable",1.74,0.45,2019,Agriculture/Forestry/Fisheries,9.85,10.80
+France,"Waste, non-renewable",1.63,0.39,2020,Agriculture/Forestry/Fisheries,10.38,11.38
+Espagne,Solid fossil fuels,11.68,2.23,1990,Energy Industries,78.54,78.88
+Espagne,Solid fossil fuels,10.98,2.58,1991,Energy Industries,78.93,79.30
+Espagne,Solid fossil fuels,11.47,2.40,1992,Energy Industries,86.74,87.16
+Espagne,Solid fossil fuels,10.91,1.44,1993,Energy Industries,80.88,81.30
+Espagne,Solid fossil fuels,10.60,1.58,1994,Energy Industries,80.83,81.26
+Espagne,Solid fossil fuels,10.12,1.36,1995,Energy Industries,86.58,87.08
+Espagne,Solid fossil fuels,9.82,1.21,1996,Energy Industries,73.53,73.99
+Espagne,Solid fossil fuels,9.82,0.94,1997,Energy Industries,86.11,86.63
+Espagne,Solid fossil fuels,9.28,0.76,1998,Energy Industries,85.50,86.00
+Espagne,Solid fossil fuels,8.59,0.60,1999,Energy Industries,100.77,101.34
+Espagne,Solid fossil fuels,7.97,0.81,2000,Energy Industries,105.27,105.85
+Espagne,Solid fossil fuels,7.77,0.79,2001,Energy Industries,99.73,100.29
+Espagne,Solid fossil fuels,7.45,0.78,2002,Energy Industries,113.71,114.34
+Espagne,Solid fossil fuels,6.97,0.82,2003,Energy Industries,106.53,107.17
+Espagne,Solid fossil fuels,6.45,0.72,2004,Energy Industries,116.32,117.04
+Espagne,Solid fossil fuels,6.26,0.75,2005,Energy Industries,125.98,126.83
+Espagne,Solid fossil fuels,6.05,0.75,2006,Energy Industries,120.77,121.79
+Espagne,Solid fossil fuels,5.46,0.84,2007,Energy Industries,126.56,127.62
+Espagne,Solid fossil fuels,4.19,0.78,2008,Energy Industries,108.92,109.99
+Espagne,Solid fossil fuels,3.81,0.60,2009,Energy Industries,91.51,92.46
+Espagne,Solid fossil fuels,3.30,0.53,2010,Energy Industries,74.57,75.37
+Espagne,Solid fossil fuels,2.65,0.81,2011,Energy Industries,87.43,88.22
+Espagne,Solid fossil fuels,2.46,0.52,2012,Energy Industries,92.59,93.34
+Espagne,Solid fossil fuels,1.76,0.46,2013,Energy Industries,72.34,73.01
+Espagne,Solid fossil fuels,1.63,0.44,2014,Energy Industries,75.62,76.27
+Espagne,Solid fossil fuels,1.25,0.43,2015,Energy Industries,85.72,86.43
+Espagne,Solid fossil fuels,0.74,0.41,2016,Energy Industries,70.46,71.05
+Espagne,Solid fossil fuels,1.13,0.48,2017,Energy Industries,80.77,81.53
+Espagne,Solid fossil fuels,0.88,0.48,2018,Energy Industries,71.51,72.26
+Espagne,Solid fossil fuels,0.00,0.37,2019,Energy Industries,56.35,57.08
+Espagne,Solid fossil fuels,0.00,0.34,2020,Energy Industries,43.02,43.56
+Espagne,Natural gas,1.27,3.95,1990,Manufacturing Industries and Construction,44.93,45.29
+Espagne,Natural gas,1.19,4.31,1991,Manufacturing Industries and Construction,49.33,49.70
+Espagne,Natural gas,1.09,4.70,1992,Manufacturing Industries and Construction,47.23,47.58
+Espagne,Natural gas,0.60,5.01,1993,Manufacturing Industries and Construction,46.04,46.40
+Espagne,Natural gas,0.18,5.01,1994,Manufacturing Industries and Construction,51.45,51.84
+Espagne,Natural gas,0.38,6.43,1995,Manufacturing Industries and Construction,59.09,59.59
+Espagne,Natural gas,0.43,6.89,1996,Manufacturing Industries and Construction,53.88,54.41
+Espagne,Natural gas,0.16,7.74,1997,Manufacturing Industries and Construction,53.13,53.70
+Espagne,Natural gas,0.10,8.70,1998,Manufacturing Industries and Construction,53.05,53.72
+Espagne,Natural gas,0.13,9.63,1999,Manufacturing Industries and Construction,54.79,55.58
+Espagne,Natural gas,0.15,11.82,2000,Manufacturing Industries and Construction,57.86,58.77
+Espagne,Natural gas,0.47,13.01,2001,Manufacturing Industries and Construction,60.17,61.15
+Espagne,Natural gas,0.47,13.70,2002,Manufacturing Industries and Construction,62.80,63.85
+Espagne,Natural gas,0.20,15.32,2003,Manufacturing Industries and Construction,67.36,68.60
+Espagne,Natural gas,0.31,16.37,2004,Manufacturing Industries and Construction,67.25,68.60
+Espagne,Natural gas,0.14,17.65,2005,Manufacturing Industries and Construction,68.37,69.83
+Espagne,Natural gas,0.06,15.16,2006,Manufacturing Industries and Construction,58.42,59.50
+Espagne,Natural gas,0.02,15.71,2007,Manufacturing Industries and Construction,60.36,61.51
+Espagne,Natural gas,0.01,14.68,2008,Manufacturing Industries and Construction,56.90,58.02
+Espagne,Natural gas,0.01,13.00,2009,Manufacturing Industries and Construction,47.04,47.99
+Espagne,Natural gas,0.04,14.35,2010,Manufacturing Industries and Construction,48.79,49.78
+Espagne,Natural gas,0.05,14.00,2011,Manufacturing Industries and Construction,45.65,46.62
+Espagne,Natural gas,0.05,14.63,2012,Manufacturing Industries and Construction,44.39,45.46
+Espagne,Natural gas,0.05,14.79,2013,Manufacturing Industries and Construction,41.24,42.35
+Espagne,Natural gas,0.02,14.30,2014,Manufacturing Industries and Construction,38.60,39.52
+Espagne,Natural gas,0.05,12.91,2015,Manufacturing Industries and Construction,39.17,40.07
+Espagne,Natural gas,0.05,13.36,2016,Manufacturing Industries and Construction,39.59,40.48
+Espagne,Natural gas,0.02,13.56,2017,Manufacturing Industries and Construction,43.33,44.40
+Espagne,Natural gas,0.08,14.32,2018,Manufacturing Industries and Construction,45.33,46.51
+Espagne,Natural gas,0.12,14.46,2019,Manufacturing Industries and Construction,45.15,46.32
+Espagne,Natural gas,0.04,13.82,2020,Manufacturing Industries and Construction,39.18,40.21
+Espagne,Renewables and biofuels,6.22,3.93,1990,Transport,57.74,58.67
+Espagne,Renewables and biofuels,6.13,3.69,1991,Transport,61.09,62.07
+Espagne,Renewables and biofuels,5.11,3.37,1992,Transport,65.06,66.08
+Espagne,Renewables and biofuels,5.59,3.38,1993,Transport,64.65,65.79
+Espagne,Renewables and biofuels,5.96,3.39,1994,Transport,68.14,69.79
+Espagne,Renewables and biofuels,5.51,3.25,1995,Transport,68.96,70.80
+Espagne,Renewables and biofuels,6.98,3.27,1996,Transport,73.55,75.66
+Espagne,Renewables and biofuels,6.65,3.29,1997,Transport,73.17,75.13
+Espagne,Renewables and biofuels,6.78,3.43,1998,Transport,79.82,81.75
+Espagne,Renewables and biofuels,6.03,3.45,1999,Transport,83.54,85.42
+Espagne,Renewables and biofuels,6.74,3.47,2000,Transport,85.20,86.57
+Espagne,Renewables and biofuels,8.08,3.48,2001,Transport,89.17,90.40
+Espagne,Renewables and biofuels,6.85,3.59,2002,Transport,90.97,92.13
+Espagne,Renewables and biofuels,9.19,3.65,2003,Transport,95.48,96.65
+Espagne,Renewables and biofuels,8.81,3.68,2004,Transport,99.16,100.32
+Espagne,Renewables and biofuels,8.39,3.78,2005,Transport,101.75,102.91
+Espagne,Renewables and biofuels,9.16,4.00,2006,Transport,105.03,106.20
+Espagne,Renewables and biofuels,10.00,4.27,2007,Transport,107.37,108.55
+Espagne,Renewables and biofuels,10.31,4.40,2008,Transport,101.49,102.62
+Espagne,Renewables and biofuels,12.38,5.00,2009,Transport,94.28,95.32
+Espagne,Renewables and biofuels,14.63,5.36,2010,Transport,90.96,91.99
+Espagne,Renewables and biofuels,13.93,5.80,2011,Transport,85.80,86.79
+Espagne,Renewables and biofuels,14.62,6.29,2012,Transport,78.68,79.61
+Espagne,Renewables and biofuels,17.53,5.03,2013,Transport,79.50,80.41
+Espagne,Renewables and biofuels,18.31,5.40,2014,Transport,79.76,80.68
+Espagne,Renewables and biofuels,17.27,5.68,2015,Transport,82.87,83.82
+Espagne,Renewables and biofuels,17.74,5.61,2016,Transport,85.68,86.67
+Espagne,Renewables and biofuels,17.09,5.97,2017,Transport,88.28,89.31
+Espagne,Renewables and biofuels,18.27,6.53,2018,Transport,89.38,90.45
+Espagne,Renewables and biofuels,18.77,6.75,2019,Transport,90.54,91.63
+Espagne,Renewables and biofuels,19.64,6.48,2020,Transport,73.35,74.26
+Espagne,"Waste, non-renewable",0.06,0.01,1990,Agriculture/Forestry/Fisheries,8.70,8.80
+Espagne,"Waste, non-renewable",0.06,0.01,1991,Agriculture/Forestry/Fisheries,9.01,9.11
+Espagne,"Waste, non-renewable",0.06,0.01,1992,Agriculture/Forestry/Fisheries,9.27,9.38
+Espagne,"Waste, non-renewable",0.07,0.02,1993,Agriculture/Forestry/Fisheries,9.31,9.42
+Espagne,"Waste, non-renewable",0.09,0.02,1994,Agriculture/Forestry/Fisheries,9.35,9.46
+Espagne,"Waste, non-renewable",0.21,0.08,1995,Agriculture/Forestry/Fisheries,9.31,9.42
+Espagne,"Waste, non-renewable",0.24,0.08,1996,Agriculture/Forestry/Fisheries,9.31,9.42
+Espagne,"Waste, non-renewable",0.25,0.08,1997,Agriculture/Forestry/Fisheries,9.32,9.43
+Espagne,"Waste, non-renewable",0.25,0.08,1998,Agriculture/Forestry/Fisheries,9.50,9.62
+Espagne,"Waste, non-renewable",0.26,0.08,1999,Agriculture/Forestry/Fisheries,9.88,9.99
+Espagne,"Waste, non-renewable",0.19,0.00,2000,Agriculture/Forestry/Fisheries,10.09,10.21
+Espagne,"Waste, non-renewable",0.14,0.00,2001,Agriculture/Forestry/Fisheries,10.12,10.24
+Espagne,"Waste, non-renewable",0.10,0.00,2002,Agriculture/Forestry/Fisheries,10.28,10.40
+Espagne,"Waste, non-renewable",0.11,0.00,2003,Agriculture/Forestry/Fisheries,11.11,11.24
+Espagne,"Waste, non-renewable",0.12,0.00,2004,Agriculture/Forestry/Fisheries,11.50,11.63
+Espagne,"Waste, non-renewable",0.19,0.00,2005,Agriculture/Forestry/Fisheries,11.12,11.25
+Espagne,"Waste, non-renewable",0.25,0.00,2006,Agriculture/Forestry/Fisheries,11.16,11.29
+Espagne,"Waste, non-renewable",0.31,0.00,2007,Agriculture/Forestry/Fisheries,11.24,11.37
+Espagne,"Waste, non-renewable",0.33,0.00,2008,Agriculture/Forestry/Fisheries,10.55,10.68
+Espagne,"Waste, non-renewable",0.43,0.11,2009,Agriculture/Forestry/Fisheries,10.33,10.47
+Espagne,"Waste, non-renewable",0.32,0.15,2010,Agriculture/Forestry/Fisheries,10.50,10.64
+Espagne,"Waste, non-renewable",0.37,0.18,2011,Agriculture/Forestry/Fisheries,11.25,11.39
+Espagne,"Waste, non-renewable",0.35,0.17,2012,Agriculture/Forestry/Fisheries,11.75,11.90
+Espagne,"Waste, non-renewable",0.35,0.15,2013,Agriculture/Forestry/Fisheries,11.80,11.95
+Espagne,"Waste, non-renewable",0.37,0.17,2014,Agriculture/Forestry/Fisheries,12.73,12.89
+Espagne,"Waste, non-renewable",0.41,0.16,2015,Agriculture/Forestry/Fisheries,11.34,11.50
+Espagne,"Waste, non-renewable",0.44,0.21,2016,Agriculture/Forestry/Fisheries,11.52,11.68
+Espagne,"Waste, non-renewable",0.47,0.22,2017,Agriculture/Forestry/Fisheries,11.32,11.48
+Espagne,"Waste, non-renewable",0.55,0.23,2018,Agriculture/Forestry/Fisheries,11.62,11.78
+Espagne,"Waste, non-renewable",0.53,0.22,2019,Agriculture/Forestry/Fisheries,11.66,11.82
+Espagne,"Waste, non-renewable",0.54,0.19,2020,Agriculture/Forestry/Fisheries,11.65,11.81
+Belgique,Solid fossil fuels,0.61,2.03,1990,Energy Industries,29.55,29.75
+Belgique,Solid fossil fuels,0.37,1.98,1991,Energy Industries,29.97,30.18
+Belgique,Solid fossil fuels,0.13,1.59,1992,Energy Industries,29.05,29.27
+Belgique,Solid fossil fuels,0.00,1.30,1993,Energy Industries,28.33,28.53
+Belgique,Solid fossil fuels,0.00,1.25,1994,Energy Industries,29.46,29.67
+Belgique,Solid fossil fuels,0.00,1.16,1995,Energy Industries,29.07,29.27
+Belgique,Solid fossil fuels,0.00,1.06,1996,Energy Industries,28.41,28.63
+Belgique,Solid fossil fuels,0.00,0.95,1997,Energy Industries,27.35,27.57
+Belgique,Solid fossil fuels,0.00,0.80,1998,Energy Industries,30.24,30.47
+Belgique,Solid fossil fuels,0.00,0.74,1999,Energy Industries,26.56,26.78
+Belgique,Solid fossil fuels,0.00,0.91,2000,Energy Industries,28.27,28.52
+Belgique,Solid fossil fuels,0.00,1.69,2001,Energy Industries,25.94,26.18
+Belgique,Solid fossil fuels,0.00,0.86,2002,Energy Industries,27.41,27.66
+Belgique,Solid fossil fuels,0.00,0.81,2003,Energy Industries,28.56,28.83
+Belgique,Solid fossil fuels,0.00,0.67,2004,Energy Industries,29.04,29.29
+Belgique,Solid fossil fuels,0.00,0.58,2005,Energy Industries,28.84,29.02
+Belgique,Solid fossil fuels,0.00,0.48,2006,Energy Industries,27.74,27.91
+Belgique,Solid fossil fuels,0.00,0.46,2007,Energy Industries,27.05,27.22
+Belgique,Solid fossil fuels,0.00,0.53,2008,Energy Industries,24.95,25.11
+Belgique,Solid fossil fuels,0.00,0.55,2009,Energy Industries,25.38,25.60
+Belgique,Solid fossil fuels,0.00,0.49,2010,Energy Industries,25.95,26.15
+Belgique,Solid fossil fuels,0.00,0.46,2011,Energy Industries,22.53,22.72
+Belgique,Solid fossil fuels,0.00,0.45,2012,Energy Industries,22.38,22.57
+Belgique,Solid fossil fuels,0.00,0.53,2013,Energy Industries,20.92,21.13
+Belgique,Solid fossil fuels,0.00,0.49,2014,Energy Industries,19.94,20.13
+Belgique,Solid fossil fuels,0.00,0.51,2015,Energy Industries,20.67,20.86
+Belgique,Solid fossil fuels,0.00,0.48,2016,Energy Industries,19.37,19.55
+Belgique,Solid fossil fuels,0.00,0.46,2017,Energy Industries,19.51,19.70
+Belgique,Solid fossil fuels,0.00,0.47,2018,Energy Industries,19.46,19.66
+Belgique,Solid fossil fuels,0.00,0.46,2019,Energy Industries,20.74,20.95
+Belgique,Solid fossil fuels,0.00,0.37,2020,Energy Industries,18.83,19.01
+Belgique,Natural gas,0.01,6.40,1990,Manufacturing Industries and Construction,23.39,23.54
+Belgique,Natural gas,0.01,6.74,1991,Manufacturing Industries and Construction,23.65,23.79
+Belgique,Natural gas,0.00,6.78,1992,Manufacturing Industries and Construction,22.52,22.66
+Belgique,Natural gas,0.00,7.14,1993,Manufacturing Industries and Construction,22.46,22.60
+Belgique,Natural gas,0.00,7.28,1994,Manufacturing Industries and Construction,23.04,23.18
+Belgique,Natural gas,0.00,7.85,1995,Manufacturing Industries and Construction,23.04,23.18
+Belgique,Natural gas,0.00,8.88,1996,Manufacturing Industries and Construction,22.32,22.46
+Belgique,Natural gas,0.00,8.22,1997,Manufacturing Industries and Construction,21.71,21.86
+Belgique,Natural gas,0.00,8.66,1998,Manufacturing Industries and Construction,22.25,22.40
+Belgique,Natural gas,0.00,8.81,1999,Manufacturing Industries and Construction,21.31,21.46
+Belgique,Natural gas,0.00,9.33,2000,Manufacturing Industries and Construction,21.49,21.66
+Belgique,Natural gas,0.00,9.64,2001,Manufacturing Industries and Construction,21.47,21.62
+Belgique,Natural gas,0.00,9.74,2002,Manufacturing Industries and Construction,20.76,20.92
+Belgique,Natural gas,0.00,9.67,2003,Manufacturing Industries and Construction,19.63,19.78
+Belgique,Natural gas,0.00,9.51,2004,Manufacturing Industries and Construction,19.35,19.52
+Belgique,Natural gas,0.00,9.43,2005,Manufacturing Industries and Construction,18.77,18.94
+Belgique,Natural gas,0.00,9.48,2006,Manufacturing Industries and Construction,18.94,19.13
+Belgique,Natural gas,0.00,9.03,2007,Manufacturing Industries and Construction,18.98,19.20
+Belgique,Natural gas,0.00,9.29,2008,Manufacturing Industries and Construction,19.05,19.36
+Belgique,Natural gas,0.00,8.75,2009,Manufacturing Industries and Construction,13.62,13.79
+Belgique,Natural gas,0.00,10.01,2010,Manufacturing Industries and Construction,15.75,15.97
+Belgique,Natural gas,0.00,8.67,2011,Manufacturing Industries and Construction,15.37,15.58
+Belgique,Natural gas,0.00,9.29,2012,Manufacturing Industries and Construction,14.39,14.62
+Belgique,Natural gas,0.00,9.80,2013,Manufacturing Industries and Construction,14.19,14.35
+Belgique,Natural gas,0.00,8.34,2014,Manufacturing Industries and Construction,13.66,13.82
+Belgique,Natural gas,0.00,8.95,2015,Manufacturing Industries and Construction,13.60,13.85
+Belgique,Natural gas,0.00,9.31,2016,Manufacturing Industries and Construction,13.55,13.67
+Belgique,Natural gas,0.00,9.46,2017,Manufacturing Industries and Construction,13.68,13.81
+Belgique,Natural gas,0.00,9.53,2018,Manufacturing Industries and Construction,13.90,14.11
+Belgique,Natural gas,0.00,9.46,2019,Manufacturing Industries and Construction,13.76,13.90
+Belgique,Natural gas,0.00,9.09,2020,Manufacturing Industries and Construction,12.94,13.07
+Belgique,Renewables and biofuels,0.48,0.33,1990,Transport,20.61,20.93
+Belgique,Renewables and biofuels,0.49,0.33,1991,Transport,20.79,21.11
+Belgique,Renewables and biofuels,0.48,0.32,1992,Transport,21.53,21.86
+Belgique,Renewables and biofuels,0.34,0.25,1993,Transport,22.03,22.36
+Belgique,Renewables and biofuels,0.32,0.24,1994,Transport,22.52,22.86
+Belgique,Renewables and biofuels,0.44,0.35,1995,Transport,22.60,22.95
+Belgique,Renewables and biofuels,0.42,0.36,1996,Transport,23.02,23.38
+Belgique,Renewables and biofuels,0.43,0.34,1997,Transport,23.25,23.60
+Belgique,Renewables and biofuels,0.49,0.38,1998,Transport,23.91,24.26
+Belgique,Renewables and biofuels,0.50,0.41,1999,Transport,24.25,24.58
+Belgique,Renewables and biofuels,0.53,0.41,2000,Transport,24.67,25.00
+Belgique,Renewables and biofuels,0.60,0.46,2001,Transport,25.23,25.56
+Belgique,Renewables and biofuels,0.58,0.46,2002,Transport,25.56,25.88
+Belgique,Renewables and biofuels,0.71,0.55,2003,Transport,26.15,26.47
+Belgique,Renewables and biofuels,0.76,0.57,2004,Transport,27.24,27.55
+Belgique,Renewables and biofuels,0.87,0.64,2005,Transport,26.50,26.76
+Belgique,Renewables and biofuels,0.93,0.70,2006,Transport,27.10,27.36
+Belgique,Renewables and biofuels,1.14,0.82,2007,Transport,27.94,28.21
+Belgique,Renewables and biofuels,1.37,0.96,2008,Transport,28.02,28.30
+Belgique,Renewables and biofuels,1.74,1.16,2009,Transport,27.20,27.47
+Belgique,Renewables and biofuels,2.46,1.70,2010,Transport,26.41,26.69
+Belgique,Renewables and biofuels,2.53,1.52,2011,Transport,26.00,26.28
+Belgique,Renewables and biofuels,2.82,1.63,2012,Transport,25.18,25.46
+Belgique,Renewables and biofuels,3.03,1.83,2013,Transport,24.70,24.98
+Belgique,Renewables and biofuels,3.00,1.73,2014,Transport,24.94,25.23
+Belgique,Renewables and biofuels,3.05,1.69,2015,Transport,26.60,26.90
+Belgique,Renewables and biofuels,3.11,1.96,2016,Transport,26.31,26.62
+Belgique,Renewables and biofuels,3.23,1.96,2017,Transport,25.75,26.04
+Belgique,Renewables and biofuels,3.39,1.98,2018,Transport,25.92,26.21
+Belgique,Renewables and biofuels,3.63,1.95,2019,Transport,25.69,25.98
+Belgique,Renewables and biofuels,3.99,2.13,2020,Transport,21.41,21.66
+Belgique,"Waste, non-renewable",0.30,0.05,1990,Agriculture/Forestry/Fisheries,3.04,3.09
+Belgique,"Waste, non-renewable",0.32,0.06,1991,Agriculture/Forestry/Fisheries,3.05,3.10
+Belgique,"Waste, non-renewable",0.37,0.08,1992,Agriculture/Forestry/Fisheries,3.07,3.12
+Belgique,"Waste, non-renewable",0.37,0.08,1993,Agriculture/Forestry/Fisheries,3.09,3.13
+Belgique,"Waste, non-renewable",0.39,0.10,1994,Agriculture/Forestry/Fisheries,3.13,3.18
+Belgique,"Waste, non-renewable",0.41,0.09,1995,Agriculture/Forestry/Fisheries,2.97,3.02
+Belgique,"Waste, non-renewable",0.39,0.08,1996,Agriculture/Forestry/Fisheries,3.02,3.07
+Belgique,"Waste, non-renewable",0.40,0.09,1997,Agriculture/Forestry/Fisheries,2.90,2.95
+Belgique,"Waste, non-renewable",0.40,0.09,1998,Agriculture/Forestry/Fisheries,2.88,2.93
+Belgique,"Waste, non-renewable",0.44,0.13,1999,Agriculture/Forestry/Fisheries,2.74,2.79
+Belgique,"Waste, non-renewable",0.44,0.12,2000,Agriculture/Forestry/Fisheries,2.52,2.57
+Belgique,"Waste, non-renewable",0.53,0.15,2001,Agriculture/Forestry/Fisheries,2.47,2.52
+Belgique,"Waste, non-renewable",0.49,0.14,2002,Agriculture/Forestry/Fisheries,2.44,2.48
+Belgique,"Waste, non-renewable",0.57,0.15,2003,Agriculture/Forestry/Fisheries,2.41,2.46
+Belgique,"Waste, non-renewable",0.56,0.14,2004,Agriculture/Forestry/Fisheries,2.49,2.54
+Belgique,"Waste, non-renewable",0.50,0.12,2005,Agriculture/Forestry/Fisheries,2.46,2.51
+Belgique,"Waste, non-renewable",0.60,0.13,2006,Agriculture/Forestry/Fisheries,2.39,2.44
+Belgique,"Waste, non-renewable",0.62,0.09,2007,Agriculture/Forestry/Fisheries,2.12,2.18
+Belgique,"Waste, non-renewable",0.65,0.11,2008,Agriculture/Forestry/Fisheries,1.89,1.98
+Belgique,"Waste, non-renewable",0.71,0.11,2009,Agriculture/Forestry/Fisheries,1.95,2.06
+Belgique,"Waste, non-renewable",0.70,0.18,2010,Agriculture/Forestry/Fisheries,2.14,2.26
+Belgique,"Waste, non-renewable",0.73,0.20,2011,Agriculture/Forestry/Fisheries,1.84,1.97
+Belgique,"Waste, non-renewable",0.70,0.16,2012,Agriculture/Forestry/Fisheries,1.91,2.04
+Belgique,"Waste, non-renewable",0.66,0.18,2013,Agriculture/Forestry/Fisheries,1.98,2.12
+Belgique,"Waste, non-renewable",0.67,0.17,2014,Agriculture/Forestry/Fisheries,1.80,1.93
+Belgique,"Waste, non-renewable",0.67,0.17,2015,Agriculture/Forestry/Fisheries,2.07,2.21
+Belgique,"Waste, non-renewable",0.68,0.17,2016,Agriculture/Forestry/Fisheries,2.12,2.26
+Belgique,"Waste, non-renewable",0.64,0.14,2017,Agriculture/Forestry/Fisheries,2.13,2.28
+Belgique,"Waste, non-renewable",0.65,0.16,2018,Agriculture/Forestry/Fisheries,2.22,2.39
+Belgique,"Waste, non-renewable",0.66,0.16,2019,Agriculture/Forestry/Fisheries,2.33,2.50
+Belgique,"Waste, non-renewable",0.65,0.16,2020,Agriculture/Forestry/Fisheries,2.42,2.61

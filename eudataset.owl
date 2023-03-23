@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ontologies/energydatasetEU#"
+     xml:base="http://www.semanticweb.org/ontologies/energydatasetEU"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU">
+        <rdfs:comment xml:lang="en">This is a ontology about European energy dataset</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/energydatasetEU#emittedSector -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU#emittedSector">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/CO2_emission"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologies/sector"/>
+        <rdfs:comment>CO2 or GHG emitted by a sector ( for example pollution emitted by industrial)</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/energydatasetEU#hastypeEnergy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU#hastypeEnergy">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/Energy-consumed"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/Energy-produced"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologies/type-energy"/>
+        <rdfs:comment>energy consumed and energy produced has type ( for example nuclear or solar energy)</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/energydatasetEU#inCountry -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU#inCountry">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/CO2_emission"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/Energy-consumed"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/Energy-produced"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologies/country"/>
+        <rdfs:comment>energy consumed , energy produced and pollution indicator are done in a country( for example energy produceb by Belgium)</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/energydatasetEU#inYear -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU#inYear">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/CO2_emission"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/Energy-consumed"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/Energy-produced"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologies/year"/>
+        <rdfs:comment>energy consumed , energy produced and pollution indicator are produced during a year( for example energy produced in 2020)</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/energydatasetEU#CO2_emission_rate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU#CO2_emission_rate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/CO2_emission"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission_rate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission_rate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/energydatasetEU#consumed -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU#consumed">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/Energy-consumed"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/energydatasetEU#produced -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU#produced">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/Energy-produced"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CO2_emission -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/CO2_emission">
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/Energy-consumed -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/Energy-consumed">
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission"/>
+        <rdfs:comment>this class denote energy consuned</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/Energy-produced -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/Energy-produced">
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission"/>
+        <rdfs:comment>this class denote energy produced</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/country -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/country"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/sector -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/sector"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/type-energy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/type-energy"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/year -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/year"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/energydatasetEU#GHG_emission"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/CO2_emission"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/Energy-consumed"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/Energy-produced"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
